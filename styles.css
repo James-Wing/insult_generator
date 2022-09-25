@@ -1,0 +1,20 @@
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+p.insult {
+  font-size: 50px;
+}
+
+button.button1 {
+  font-size: 35px;
+  padding: 20px 20px;
+}
+
+body {
+  background-image: url("https://i.kym-cdn.com/entries/icons/original/000/022/167/It's_a_face-off!.png")
+}
